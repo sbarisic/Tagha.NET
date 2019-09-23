@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tagha.NET", "Tagha.NET\Tagha.NET.csproj", "{FAAA77F2-1A03-48EC-B740-BD6F56F71989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7B4AA4C5-4DF1-4DFE-AA71-7F2AE74987D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAAA77F2-1A03-48EC-B740-BD6F56F71989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAA77F2-1A03-48EC-B740-BD6F56F71989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAA77F2-1A03-48EC-B740-BD6F56F71989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAA77F2-1A03-48EC-B740-BD6F56F71989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4AA4C5-4DF1-4DFE-AA71-7F2AE74987D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4AA4C5-4DF1-4DFE-AA71-7F2AE74987D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4AA4C5-4DF1-4DFE-AA71-7F2AE74987D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4AA4C5-4DF1-4DFE-AA71-7F2AE74987D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {527B3B20-206B-4606-BE4D-CC1D96AD7875}
+	EndGlobalSection
+EndGlobal
