@@ -1,0 +1,3 @@
+[submodule "TaghaSrc"]
+	path = TaghaSrc
+	url = https://github.com/assyrianic/Tagha
